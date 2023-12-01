@@ -12,4 +12,7 @@ my_function()
 def damn(name):
     print(name + "ist sehr genial")
 
-damn("Magnus")
+if number3 > number:
+    damn("Markus Lanz")
+else:
+    damn("Magnus")
