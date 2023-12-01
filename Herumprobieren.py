@@ -16,3 +16,8 @@ if number3 > number:
     damn("Markus Lanz")
 else:
     damn("Magnus")
+
+
+grades = range(1-6)
+for i in grades:
+    print(i)
