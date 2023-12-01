@@ -12,7 +12,7 @@ my_function()
 def damn(name):
     print(name + "ist sehr genial")
 
-if number3 > number:
+if number3 > number1:
     damn("Markus Lanz")
 else:
     damn("Magnus")
@@ -20,4 +20,8 @@ else:
 
 grades = range(1-6)
 for i in grades:
-    print(i)
+    print(i + damn("Markus Lanz"))
+    grade = i
+
+while grade = 1:
+    print("Markus Lanz ist stolz")
